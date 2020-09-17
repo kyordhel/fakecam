@@ -1,0 +1,10 @@
+# Ignore everything
+*
+# But these files
+!.gitignore
+!fakecam.py
+!requirements.MD
+!requirements.txt
+# And these directories
+!bodypix/
+!data/

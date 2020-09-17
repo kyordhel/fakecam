@@ -1,0 +1,9 @@
+# Ignore everything
+*
+# But these files
+!.gitignore
+!app.js
+!Dockerfile
+!Dockerfile.gpu
+!install.sh
+!package.json
